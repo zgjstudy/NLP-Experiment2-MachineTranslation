@@ -1,0 +1,7 @@
+/.ipynb_checkpoints/
+/.idea/
+/__pycache__/
+/test_*.ipynb
+/log/
+vocab_en.subwords
+out.txt

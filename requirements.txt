@@ -1,0 +1,6 @@
+tensorflow==2.1.0
+bert-for-tf2
+tensorflow-datasets
+tqdm
+numpy
+
